@@ -1,0 +1,14 @@
+﻿Ausgangsjahr;Gemeinde_BFS_Nr;Gemeindename;Stadtkreis_BFS_Nr;Stadtkreis_Name;Gesetz_Nummer;Gesetz_Abk;Tatbestand;Straftaten_total;Straftaten_vollendet;Straftaten_versucht;Einwohner;Häufigkeitszahl
+2022;261;Zürich;2610001;Kreis 1;311;StGB;Einbruchdiebstahl;95;52;43;5411;17.6
+2022;261;Zürich;2610004;Kreis 4;311;StGB;Einbruchdiebstahl;223;175;48;27765;8
+2022;261;Zürich;2610005;Kreis 5;311;StGB;Einbruchdiebstahl;107;80;27;15331;7
+2022;261;Zürich;2610002;Kreis 2;311;StGB;Einbruchdiebstahl;206;136;70;35494;5.8
+2022;261;Zürich;2610006;Kreis 6;311;StGB;Einbruchdiebstahl;165;102;63;33665;4.9
+2022;261;Zürich;2610003;Kreis 3;311;StGB;Einbruchdiebstahl;231;170;61;48865;4.7
+2022;261;Zürich;2610009;Kreis 9;311;StGB;Einbruchdiebstahl;259;192;67;55824;4.6
+2022;261;Zürich;2610011;Kreis 11;311;StGB;Einbruchdiebstahl;313;215;98;73223;4.3
+2022;261;Zürich;2610008;Kreis 8;311;StGB;Einbruchdiebstahl;69;46;23;17152;4
+2022;261;Zürich;2610010;Kreis 10;311;StGB;Einbruchdiebstahl;145;89;56;39719;3.7
+2022;261;Zürich;2610007;Kreis 7;311;StGB;Einbruchdiebstahl;141;85;56;37662;3.7
+2022;261;Zürich;2610012;Kreis 12;311;StGB;Einbruchdiebstahl;89;59;30;31402;2.8
+2022;261;Zürich;;unbekannt;311;StGB;Einbruchdiebstahl;1;1;0;1680;
